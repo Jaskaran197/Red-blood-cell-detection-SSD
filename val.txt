@@ -1,0 +1,14 @@
+images/image-45.png annotations/image-45.xml
+images/image-44.png annotations/image-44.xml
+images/image-46.png annotations/image-46.xml
+images/image-39.png annotations/image-39.xml
+images/image-37.png annotations/image-37.xml
+images/image-4.png annotations/image-4.xml
+images/image-43.png annotations/image-43.xml
+images/image-38.png annotations/image-38.xml
+images/image-68.png annotations/image-68.xml
+images/image-30.png annotations/image-30.xml
+images/image-34.png annotations/image-34.xml
+images/image-36.png annotations/image-36.xml
+images/image-32.png annotations/image-32.xml
+images/image-21.png annotations/image-21.xml
