@@ -1,0 +1,11 @@
+images/image-12.png annotations/image-12.xml
+images/image-22.png annotations/image-22.xml
+images/image-24.png annotations/image-24.xml
+images/image-25.png annotations/image-25.xml
+images/image-31.png annotations/image-31.xml
+images/image-23.png annotations/image-23.xml
+images/image-35.png annotations/image-35.xml
+images/image-91.png annotations/image-91.xml
+images/image-7.png annotations/image-7.xml
+images/image-33.png annotations/image-33.xml
+images/image-69.png annotations/image-69.xml
